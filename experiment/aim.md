@@ -1,1 +1,1 @@
-<b>Micro-scratching of materials and damage assessment</b>
+Micro-scratching of materials and damage assessment
