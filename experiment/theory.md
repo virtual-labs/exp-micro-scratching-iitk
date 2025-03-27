@@ -1,4 +1,4 @@
-<b>Micro-scratching and wear of materials : </b> <br><br>
+<b>Micro-scratching and wear of materials : </b> <br>
 
 Scratching experiments can be performed using scratch testing equipment and tribometer systems. The key parameters involved is the load applied during the tests.  It has been noted that application of constant load for the experiment is a better mechanism of analysing the extent of scratch damage on the samples, instead of varying the load during the tests. Another important aspect of micro-scratching is the selection of scratching material and its surface morphology.  <br>
 
