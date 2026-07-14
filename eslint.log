@@ -1,0 +1,9 @@
+
+/home/runner/work/exp-micro-scratching-iitk/exp-micro-scratching-iitk/experiment/simulation/js/components/movement.js
+   11:7   warning  'instructionSection' is assigned a value but never used  no-unused-vars
+   16:7   warning  'initialPosition' is assigned a value but never used     no-unused-vars
+  166:10  warning  'moveToUp' is defined but never used                     no-unused-vars
+  430:12  warning  'showSlider' is defined but never used                   no-unused-vars
+
+✖ 4 problems (0 errors, 4 warnings)
+
